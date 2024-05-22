@@ -1,5 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/35/62/c1/3562c16afae97e98a03e0fca14f01e09.gif" >
+<img src="/_.gif" >
 
 ### Hi there, I'm canlan527 👋
 
@@ -24,9 +24,11 @@ I‘ll send you I my dream, everyday in a letter.
 ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
-![Node](https://img.shields.io/badge/Node-5FA04E?logo=nodedotjs&logoColor=fff)  
+![Node](https://img.shields.io/badge/Node-5FA04E?logo=nodedotjs&logoColor=fff)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=333) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) 
+![Flutter](https://img.shields.io/badge/Flutter-75cff8?logo=flutter&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 
 
 
@@ -35,5 +37,4 @@ I‘ll send you I my dream, everyday in a letter.
 **GitHub Stats:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=canlan527&layout=compact)
-
 ![canlan's GitHub stats](https://github-readme-stats.vercel.app/api?username=canlan527&rank_icon=github&hide_title=true&count_private=true)
