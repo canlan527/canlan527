@@ -4,7 +4,7 @@
 ### Hi there, I'm canlan527 👋
 
 <pre>
-I‘ll send you I my dream, everyday in a letter.
+I‘ll send you all my dreams, everyday in a letter.
                               -- sealed with a kiss
 </pre>
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=canlan527" align="center" alt="visitors">
